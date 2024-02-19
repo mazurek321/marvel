@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/marvel/static/css/main.2064df86.css",
+    "main.js": "/marvel/static/js/main.0efaefdc.js",
+    "static/js/453.d57fda9f.chunk.js": "/marvel/static/js/453.d57fda9f.chunk.js",
+    "static/media/avengers.png": "/marvel/static/media/avengers.a3d5a3163da1867569f1.png",
+    "static/media/img1.jpg": "/marvel/static/media/img1.2aba6a14d82e255a7c84.jpg",
+    "static/media/CM.webp": "/marvel/static/media/CM.3d1a768240bdda0c740a.webp",
+    "static/media/poster3.jpg": "/marvel/static/media/poster3.cd310100cc7a6a9fb4fe.jpg",
+    "static/media/thor.webp": "/marvel/static/media/thor.fb41898dc25953e9f164.webp",
+    "static/media/SW.jpg": "/marvel/static/media/SW.5ce17df1671ddfaad45a.jpg",
+    "static/media/poster1.webp": "/marvel/static/media/poster1.9d2f9b7148c018ecd388.webp",
+    "static/media/bw.jpg": "/marvel/static/media/bw.406d0bee51dd35a6a7ed.jpg",
+    "static/media/newCA.webp": "/marvel/static/media/newCA.a3bdf9973824f73baaa9.webp",
+    "static/media/stark.webp": "/marvel/static/media/stark.f6ee608b5eaf927543b3.webp",
+    "static/media/hawkaye.jpg": "/marvel/static/media/hawkaye.2e6340239ea691e688f6.jpg",
+    "static/media/BP.webp": "/marvel/static/media/BP.c02c7d054a1e5cb53c77.webp",
+    "static/media/poster2.webp": "/marvel/static/media/poster2.17a05fcb70d979843750.webp",
+    "static/media/logo.png": "/marvel/static/media/logo.c62c859021025ac58899.png",
+    "static/media/rogers.jpg": "/marvel/static/media/rogers.e5f41fd2556f43eff2d7.jpg",
+    "static/media/shield.webp": "/marvel/static/media/shield.976631a19e8a66273152.webp",
+    "static/media/hulk.jpg": "/marvel/static/media/hulk.a53e8261df4b56184588.jpg",
+    "index.html": "/marvel/index.html",
+    "main.2064df86.css.map": "/marvel/static/css/main.2064df86.css.map",
+    "main.0efaefdc.js.map": "/marvel/static/js/main.0efaefdc.js.map",
+    "453.d57fda9f.chunk.js.map": "/marvel/static/js/453.d57fda9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2064df86.css",
+    "static/js/main.0efaefdc.js"
+  ]
+}
